@@ -9,22 +9,14 @@
       "path": "framer-components"
     },
     {
-      "name": "Home",
-      "path": "/"
+      "name": "Scroll",
+      "path": "/scrollPage"
     },
     {
       "name": "Framer Components",
       "path": "framer-components"
     },
-        {
-      "name": "Home",
-      "path": "/"
-    },
     {
-      "name": "Framer Components",
-      "path": "framer-components"
-    },
-        {
       "name": "Home",
       "path": "/"
     },
@@ -40,7 +32,7 @@
       "name": "Framer Components",
       "path": "framer-components"
     },
-        {
+    {
       "name": "Home",
       "path": "/"
     },
@@ -48,7 +40,15 @@
       "name": "Framer Components",
       "path": "framer-components"
     },
-        {
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "Framer Components",
+      "path": "framer-components"
+    },
+    {
       "name": "Home",
       "path": "/"
     },
